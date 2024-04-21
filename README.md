@@ -1,9 +1,41 @@
 # BB9900 wireless Keyboard: zmk-config
+## Keymap:
 
-Hey 👋 welcome. Use this repo to generate your own ZMK keymap for the BB9900 BLE keyboard.  
+Default Layer:
+//         --------------------------------------------------------------------------------------------------------------------------
+//         |    Shoulder Key1    |                                                                             |    Shoulder Key2    |
+// |         Call key      |      Blackberry Key        |    Trackpad    |             Back Key                |             Endcall Key          |
+// |     Q      |     W    |     E    |     R    |      T      |       Y        |       U        |        I        |       O      |      P        |
+// |     A      |     S    |     D    |     F    |      G      |       H        |       J        |        K        |       L      |      ←        |
+// |     alt    |     Z    |     X    |     C    |      V      |       B        |       N        |        M        |       $      |    Enter      |
+//        |         aA     |         0           |           SPACE              |         SYM         |        aA          |
+//        -----------------------------------------------------------------------------------------------------------------
+
+Symbol Layer:
+//         --------------------------------------------------------------------------------------------------------------------------
+//         |         Up        |                                                                           |        Down       |
+// |         Tilde Key     |      Code Search        |    Left Click   |            Refresh Key            |           F12 Key             |
+// |     #      |     1    |     2    |     3    |      [(      |       )]        |       _        |        -        |       +      |      @        |
+// |     *      |     4    |     5    |     6    |      /      |       :        |       ;        |        '        |       "      |      ←        |
+// |     |      |     7    |     8    |     9    |      ?      |       !        |       ,        |        .        |       &      |    Enter      |
+//        |         Ctrl    |         0           |           SPACE              |         SYM         |        UPPER       |
+//        -----------------------------------------------------------------------------------------------------------------
+
+
+Upper Layer:
+//         --------------------------------------------------------------------------------------------------------------------------
+//         |    Scroll Up     |                                                                             |    Scroll Down      |
+// |         BT Slot 0     |      BT Slot 1        |    Tap Dance   |            BT Slot 2                |           BT Slot 3             |
+// |     None  |     Up    |     None | Reset   | EP Toggle  |       None        |       <        |        >        |       |      |      =        |
+// |     Left  |     Down  |     Right|     None |      \      |       &        |       [        |        ]        |       ^      |      Del      |
+// |     Shift  |     None  |     None |     None | BL Decrease|  BL Toggle   | BL Increase  |       None       |  Bootloader   |    Enter      |
+//        |         Ctrl    |         Alt           |           Space/Toggle              |         SYM         |        UPPER       |
+//        -----------------------------------------------------------------------------------------------------------------
+
+  
 [Keycode that you can use in ZMK firmware](https://zmk.dev/docs/codes)  
 [Different behaviors that you can use in ZMK firmware](https://zmk.dev/docs/behaviors)  
-## Get started
+## Customizing (instrux from [ZitaoTech](https://github.com/ZitaoTech)):
 0. Register a github account if you don't have one.
 1. Fork this repo.![fork](https://github.com/ZitaoTech/zmk-config_9900/assets/145678024/4ffc71b9-0ed3-4ae9-ace7-99078dd1d9bc)  
 2. Open up `config/bb9900.keymap` and edit the keymap to your liking.![image](https://github.com/ZitaoTech/zmk-config_9900/assets/145678024/a0900a5c-6650-4794-9d11-a17c380a973d)  
