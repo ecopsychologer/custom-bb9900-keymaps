@@ -5,7 +5,7 @@
 
 | Shoulder Key1 |    |    |    |    |    |    |    |    | Shoulder Key2 |
 |---------------|----|----|----|----|----|----|----|----|---------------|
-|   Tab      || Command || Trackpad || Escape || Caps Lock |
+|   Tab      || Command || Trackpad || Escape or Back (on hold) || Caps Lock |
 | Q | W | E | R | T | Y | U | I | O | P |
 | A | S | D | F | G | H | J | K | L | ← |
 | alt | Z | X | C | V | B | N | M | $ | Enter |
