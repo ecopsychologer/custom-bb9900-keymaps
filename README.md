@@ -4,7 +4,7 @@
 ### Default Layer
 
 | Shoulder Key1 |    |    |    |    |    |    |    |    | Shoulder Key2 |
-|---------------|----|----|----|----|----|----|----|----|----|---------------|
+|---------------|----|----|----|----|----|----|----|----|---------------|
 |   Tab      || Command || Trackpad || Escape || Caps Lock |
 | Q | W | E | R | T | Y | U | I | O | P |
 | A | S | D | F | G | H | J | K | L | ← |
@@ -14,8 +14,8 @@
 ### Symbol Layer
 
 | Up |    |    |    |    |    |    |    |    | Down |
-|----|----|----|----|----|----|----|----|----|----|------|
-| Tilde Key | Search | Left Click | Refresh Key/F5 | F12 Key |
+|----|----|----|----|----|----|----|----|----|------|
+| Tilde Key || Search || Left Click || Refresh Key/F5 || F12 Key |
 | # | 1 | 2 | 3 | [( | )] | _ | - | + | @ |
 | * | 4 | 5 | 6 | / | : | ; | ' | " | ← |
 | \| | 7 | 8 | 9 | ? | ! | , | . | & | Enter |
@@ -24,8 +24,8 @@
 ### Upper Layer
 
 | Scroll Up |    |    |    |    |    |    |    |    | Scroll Down |
-|-----------|----|----|----|----|----|----|----|----|----|-------------|
-| BT Slot 0 | BT Slot 1 | Toggle Trackpad | BT Slot 2 | BT Slot 3 |
+|-----------|----|----|----|----|----|----|----|----|-------------|
+| BT Slot 0 || BT Slot 1 || Toggle Trackpad || BT Slot 2 || BT Slot 3 |
 | None | Up | None | Reset | EP Toggle | None | < | > | \| | = |
 | Left | Down | Right | None | \\ | & | [ | ] | ^ | Del |
 | Shift | None | None | None | BL Decrease | BL Toggle | BL Increase | None | Bootloader | Enter |
