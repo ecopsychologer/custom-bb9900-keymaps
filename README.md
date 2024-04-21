@@ -3,7 +3,7 @@
 
 ### Default Layer
 
-| Shoulder Key1 |    |    |    |    |    |    |    |    |    | Shoulder Key2 |
+| Shoulder Key1 |    |    |    |    |    |    |    |    | Shoulder Key2 |
 |---------------|----|----|----|----|----|----|----|----|----|---------------|
 |   Tab      || Command || Trackpad || Escape || Caps Lock |
 | Q | W | E | R | T | Y | U | I | O | P |
@@ -13,7 +13,7 @@
 
 ### Symbol Layer
 
-| Up |    |    |    |    |    |    |    |    |    | Down |
+| Up |    |    |    |    |    |    |    |    | Down |
 |----|----|----|----|----|----|----|----|----|----|------|
 | Tilde Key | Search | Left Click | Refresh Key/F5 | F12 Key |
 | # | 1 | 2 | 3 | [( | )] | _ | - | + | @ |
@@ -23,7 +23,7 @@
 
 ### Upper Layer
 
-| Scroll Up |    |    |    |    |    |    |    |    |    | Scroll Down |
+| Scroll Up |    |    |    |    |    |    |    |    | Scroll Down |
 |-----------|----|----|----|----|----|----|----|----|----|-------------|
 | BT Slot 0 | BT Slot 1 | Toggle Trackpad | BT Slot 2 | BT Slot 3 |
 | None | Up | None | Reset | EP Toggle | None | < | > | \| | = |
