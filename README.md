@@ -1,36 +1,36 @@
 # BB9900 wireless Keyboard: zmk-config
-## Keymap:
+## Keymap
 
-Default Layer:
-//         --------------------------------------------------------------------------------------------------------------------------
-//         |    Shoulder Key1    |                                                                             |    Shoulder Key2    |
-// |         Call key      |      Blackberry Key        |    Trackpad    |             Back Key                |             Endcall Key          |
-// |     Q      |     W    |     E    |     R    |      T      |       Y        |       U        |        I        |       O      |      P        |
-// |     A      |     S    |     D    |     F    |      G      |       H        |       J        |        K        |       L      |      ←        |
-// |     alt    |     Z    |     X    |     C    |      V      |       B        |       N        |        M        |       $      |    Enter      |
-//        |         aA     |         0           |           SPACE              |         SYM         |        aA          |
-//        -----------------------------------------------------------------------------------------------------------------
+### Default Layer
 
-Symbol Layer:
-//         --------------------------------------------------------------------------------------------------------------------------
-//         |         Up        |                                                                           |        Down       |
-// |         Tilde Key     |      Code Search        |    Left Click   |            Refresh Key            |           F12 Key             |
-// |     #      |     1    |     2    |     3    |      [(      |       )]        |       _        |        -        |       +      |      @        |
-// |     *      |     4    |     5    |     6    |      /      |       :        |       ;        |        '        |       "      |      ←        |
-// |     |      |     7    |     8    |     9    |      ?      |       !        |       ,        |        .        |       &      |    Enter      |
-//        |         Ctrl    |         0           |           SPACE              |         SYM         |        UPPER       |
-//        -----------------------------------------------------------------------------------------------------------------
+| Shoulder Key1 |    |    |    |    |    |    |    |    |    | Shoulder Key2 |
+|---------------|----|----|----|----|----|----|----|----|----|---------------|
+|   Tab      || Command || Trackpad || Escape || Caps Lock |
+| Q | W | E | R | T | Y | U | I | O | P |
+| A | S | D | F | G | H | J | K | L | ← |
+| alt | Z | X | C | V | B | N | M | $ | Enter |
+| aA | 0 | SPACE | SYM | aA |
 
+### Symbol Layer
 
-Upper Layer:
-//         --------------------------------------------------------------------------------------------------------------------------
-//         |    Scroll Up     |                                                                             |    Scroll Down      |
-// |         BT Slot 0     |      BT Slot 1        |    Tap Dance   |            BT Slot 2                |           BT Slot 3             |
-// |     None  |     Up    |     None | Reset   | EP Toggle  |       None        |       <        |        >        |       |      |      =        |
-// |     Left  |     Down  |     Right|     None |      \      |       &        |       [        |        ]        |       ^      |      Del      |
-// |     Shift  |     None  |     None |     None | BL Decrease|  BL Toggle   | BL Increase  |       None       |  Bootloader   |    Enter      |
-//        |         Ctrl    |         Alt           |           Space/Toggle              |         SYM         |        UPPER       |
-//        -----------------------------------------------------------------------------------------------------------------
+| Up |    |    |    |    |    |    |    |    |    | Down |
+|----|----|----|----|----|----|----|----|----|----|------|
+| Tilde Key | Search | Left Click | Refresh Key/F5 | F12 Key |
+| # | 1 | 2 | 3 | [( | )] | _ | - | + | @ |
+| * | 4 | 5 | 6 | / | : | ; | ' | " | ← |
+| \| | 7 | 8 | 9 | ? | ! | , | . | & | Enter |
+| Ctrl | 0 | SPACE | SYM | UPPER |
+
+### Upper Layer
+
+| Scroll Up |    |    |    |    |    |    |    |    |    | Scroll Down |
+|-----------|----|----|----|----|----|----|----|----|----|-------------|
+| BT Slot 0 | BT Slot 1 | Toggle Trackpad | BT Slot 2 | BT Slot 3 |
+| None | Up | None | Reset | EP Toggle | None | < | > | \| | = |
+| Left | Down | Right | None | \\ | & | [ | ] | ^ | Del |
+| Shift | None | None | None | BL Decrease | BL Toggle | BL Increase | None | Bootloader | Enter |
+| Ctrl | Alt | Space/Toggle | SYM | UPPER |
+
 
   
 [Keycode that you can use in ZMK firmware](https://zmk.dev/docs/codes)  
