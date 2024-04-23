@@ -13,7 +13,7 @@
 
 ### Symbol Layer
 
-| Up |    |    |    |    |    |    |    |    | Down |
+| Up/hold for Left |    |    |    |    |    |    |    |    | Down/hold for Right |
 |----|----|----|----|----|----|----|----|----|------|
 | Tilde Key || Search || Left Click || Refresh Key/F5 || F12 Key |
 | # | 1 | 2 | 3 | ( or hold for [ | ) or hold for ] | _ | - | + | @ |
