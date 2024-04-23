@@ -16,7 +16,7 @@
 | Up/hold for Left |    |    |    |    |    |    |    |    | Down/hold for Right |
 |----|----|----|----|----|----|----|----|----|------|
 | Tilde Key || Search || Left Click || Refresh Key/F5 || F12 Key |
-| # | 1 | 2 | 3 | ( or hold for [ | ) or hold for ] | _ | - | + | @ |
+| # | 1 | 2 | 3 | ( or hold for { | ) or hold for } | _ | - | + | @ |
 | * | 4 | 5 | 6 | / | : | ; | ' | " | ← |
 | \| | 7 | 8 | 9 | ? | ! | , | . | & | Enter |
 | Ctrl | 0 | SPACE | SYM | UPPER |
